@@ -1,0 +1,5 @@
+export const REGISTRARSE_BTN = 'a'
+export const EMAIL_CADASTRO_FORM = '[type="email"]'
+export const SENHA_CADASTRO_FORM = '[name="password"]'
+export const CONFIRMA_SENHA_CADASTRO_FORM = '[name="confirmarSenha"]'
+export const SUBMIT_BTN = 'button'
